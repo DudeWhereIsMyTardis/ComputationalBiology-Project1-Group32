@@ -1,0 +1,338 @@
+LOCUS       NM_001002295            3083 bp    mRNA    linear   PRI 09-OCT-2022
+DEFINITION  Homo sapiens GATA binding protein 3 (GATA3), transcript variant 1,
+            mRNA.
+ACCESSION   NM_001002295
+VERSION     NM_001002295.2
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3083)
+  AUTHORS   El-Arabey AA and Abdalla M.
+  TITLE     GATA3 as an immunomodulator in obesity-related metabolic
+            dysfunction associated with fatty liver disease, insulin
+            resistance, and type 2 diabetes
+  JOURNAL   Chem Biol Interact 366, 110141 (2022)
+   PUBMED   36058260
+  REMARK    GeneRIF: GATA3 as an immunomodulator in obesity-related metabolic
+            dysfunction associated with fatty liver disease, insulin
+            resistance, and type 2 diabetes.
+            Review article
+REFERENCE   2  (bases 1 to 3083)
+  AUTHORS   Gupta S, Folpe AL, Torres-Mora J, Reuter VE, Zuckerman JE, Falk N,
+            Stanton ML, Muthusamy S, Smith SC, Sharma V, Sethi S,
+            Herrera-Hernandez L, Jimenez RE and Cheville JC.
+  TITLE     Immunohistochemical expression of renin and GATA3 help distinguish
+            juxtaglomerular cell tumors from renal glomus tumors
+  JOURNAL   Hum Pathol 128, 110-123 (2022)
+   PUBMED   35926808
+  REMARK    GeneRIF: Immunohistochemical expression of renin and GATA3 help
+            distinguish juxtaglomerular cell tumors from renal glomus tumors.
+REFERENCE   3  (bases 1 to 3083)
+  AUTHORS   Wang R, Yi J, Gao H, Wei X, Shao L, Wang M, Xu W, Yin X, Shen Y,
+            Wang Z, Wei W and Jin S.
+  TITLE     GATA3 Exerts Distinct Transcriptional Functions to Regulate
+            Radiation Resistance in A549 and H1299 Cells
+  JOURNAL   Oxid Med Cell Longev 2022, 9174111 (2022)
+   PUBMED   35993027
+  REMARK    GeneRIF: GATA3 Exerts Distinct Transcriptional Functions to
+            Regulate Radiation Resistance in A549 and H1299 Cells.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 3083)
+  AUTHORS   Walther KA, Gonzales JR, Groger S, Ehmke B, Kaner D, Lorenz K,
+            Eickholz P, Kocher T, Kim TS, Schlagenhauf U, Koch R and Meyle J.
+  TITLE     The Role of Polymorphisms at the Interleukin-1, Interleukin-4,
+            GATA-3 and Cyclooxygenase-2 Genes in Non-Surgical Periodontal
+            Therapy
+  JOURNAL   Int J Mol Sci 23 (13), 7266 (2022)
+   PUBMED   35806269
+  REMARK    GeneRIF: The Role of Polymorphisms at the Interleukin-1,
+            Interleukin-4, GATA-3 and Cyclooxygenase-2 Genes in Non-Surgical
+            Periodontal Therapy.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3083)
+  AUTHORS   Liu JL, Chen DS, Cheng ZQ and Hu JT.
+  TITLE     [Expression of SOX10 and GATA3 in breast cancer and their
+            significance]
+  JOURNAL   Zhonghua Bing Li Xue Za Zhi 51 (6), 536-541 (2022)
+   PUBMED   35673726
+  REMARK    GeneRIF: [Expression of SOX10 and GATA3 in breast cancer and their
+            significance].
+REFERENCE   6  (bases 1 to 3083)
+  AUTHORS   Siegel MD, Zhang DH, Ray P and Ray A.
+  TITLE     Activation of the interleukin-5 promoter by cAMP in murine EL-4
+            cells requires the GATA-3 and CLE0 elements
+  JOURNAL   J Biol Chem 270 (41), 24548-24555 (1995)
+   PUBMED   7592673
+REFERENCE   7  (bases 1 to 3083)
+  AUTHORS   Marine J and Winoto A.
+  TITLE     The human enhancer-binding protein Gata3 binds to several T-cell
+            receptor regulatory elements
+  JOURNAL   Proc Natl Acad Sci U S A 88 (16), 7284-7288 (1991)
+   PUBMED   1871134
+REFERENCE   8  (bases 1 to 3083)
+  AUTHORS   Joulin V, Bories D, Eleouet JF, Labastie MC, Chretien S, Mattei MG
+            and Romeo PH.
+  TITLE     A T-cell specific TCR delta DNA binding protein is a member of the
+            human GATA family
+  JOURNAL   EMBO J 10 (7), 1809-1816 (1991)
+   PUBMED   2050118
+REFERENCE   9  (bases 1 to 3083)
+  AUTHORS   Ko LJ, Yamamoto M, Leonard MW, George KM, Ting P and Engel JD.
+  TITLE     Murine and human T-lymphocyte GATA-3 factors mediate transcription
+            through a cis-regulatory element within the human T-cell receptor
+            delta gene enhancer
+  JOURNAL   Mol Cell Biol 11 (5), 2778-2784 (1991)
+   PUBMED   2017177
+REFERENCE   10 (bases 1 to 3083)
+  AUTHORS   Ho IC, Vorhees P, Marin N, Oakley BK, Tsai SF, Orkin SH and Leiden
+            JM.
+  TITLE     Human GATA-3: a lineage-restricted transcription factor that
+            regulates the expression of the T cell receptor alpha gene
+  JOURNAL   EMBO J 10 (5), 1187-1192 (1991)
+   PUBMED   1827068
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL390294.19, BC006793.1,
+            BM152193.1, BC003070.2, BC006839.1, AI024501.1 and AI686327.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 23, 2018 this sequence version replaced NM_001002295.1.
+            
+            Summary: This gene encodes a protein which belongs to the GATA
+            family of transcription factors. The protein contains two GATA-type
+            zinc fingers and is an important regulator of T-cell development
+            and plays an important role in endothelial cell biology. Defects in
+            this gene are the cause of hypoparathyroidism with sensorineural
+            deafness and renal dysplasia. [provided by RefSeq, Nov 2009].
+            
+            Transcript Variant: This variant (1) represents the longer
+            transcript and encodes the longer isoform (1).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC006793.1, SRR1163657.278544.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000379328.9/ ENSP00000368632.3
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-16                AL390294.19        52236-52251
+            17-72               BC006793.1         1-56
+            73-322              BC006793.1         59-308
+            323-431             BM152193.1         295-403
+            432-1351            BC003070.2         310-1229
+            1352-2173           BC006793.1         1338-2159
+            2174-2423           BC006793.1         2161-2410
+            2424-2519           BC006839.1         287-382
+            2520-2779           AI024501.1         5-264               c
+            2780-3083           AI686327.1         2-305               c
+FEATURES             Location/Qualifiers
+     source          1..3083
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="10"
+                     /map="10p14"
+     gene            1..3083
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="GATA binding protein 3"
+                     /db_xref="GeneID:2625"
+                     /db_xref="HGNC:HGNC:4172"
+                     /db_xref="MIM:131320"
+     exon            1..204
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            205..814
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    391..393
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="upstream in-frame stop codon"
+     CDS             574..1908
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="isoform 1 is encoded by transcript variant 1;
+                     trans-acting T-cell-specific transcription factor GATA-3;
+                     GATA-binding factor 3"
+                     /codon_start=1
+                     /product="trans-acting T-cell-specific transcription
+                     factor GATA-3 isoform 1"
+                     /protein_id="NP_001002295.1"
+                     /db_xref="CCDS:CCDS31143.1"
+                     /db_xref="GeneID:2625"
+                     /db_xref="HGNC:HGNC:4172"
+                     /db_xref="MIM:131320"
+                     /translation="MEVTADQPRWVSHHHPAVLNGQHPDTHHPGLSHSYMDAAQYPLP
+                     EEVDVLFNIDGQGNHVPPYYGNSVRATVQRYPPTHHGSQVCRPPLLHGSLPWLDGGKA
+                     LGSHHTASPWNLSPFSKTSIHHGSPGPLSVYPPASSSSLSGGHASPHLFTFPPTPPKD
+                     VSPDPSLSTPGSAGSARQDEKECLKYQVPLPDSMKLESSHSRGSMTALGGASSSTHHP
+                     ITTYPPYVPEYSSGLFPPSSLLGGSPTGFGCKSRPKARSSTEGRECVNCGATSTPLWR
+                     RDGTGHYLCNACGLYHKMNGQNRPLIKPKRRLSAARRAGTSCANCQTTTTTLWRRNAN
+                     GDPVCNACGLYYKLHNINRPLTMKKEGIQTRNRKMSSKSKKCKKVHDSLEDFPKNSSF
+                     NPAALSRHMSSLSHISPFSHSSHMLTTPTPMHPPSSLSFGPHHPSSMVTAMG"
+     misc_feature    574..1347
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (P23771.1);
+                     Region: Interaction with TBX21.
+                     /evidence=ECO:0000250|UniProtKB:P23772"
+     misc_feature    574..660
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (P23771.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    916..918
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:19690332; propagated from
+                     UniProtKB/Swiss-Prot (P23771.1); phosphorylation site"
+     misc_feature    955..1113
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (P23771.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1057..1059
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:19690332; propagated from
+                     UniProtKB/Swiss-Prot (P23771.1); phosphorylation site"
+     misc_feature    1153..1221
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (P23771.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1438..1524
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (P23771.1);
+                     Region: Flexible linker"
+     misc_feature    1606..1635
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (P23771.1);
+                     Region: YxKxHxxxRP. /evidence=ECO:0000250"
+     misc_feature    1657..1743
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (P23771.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1816..1905
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="propagated from UniProtKB/Swiss-Prot (P23771.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     exon            815..1351
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1352..1497
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1498..1623
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1624..3083
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2750..2755
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="hexamer: AATAAA"
+     regulatory      2760..2765
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="hexamer: ATTACA"
+     polyA_site      2769
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="major polyA site"
+     polyA_site      2779
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="major polyA site"
+     regulatory      3058..3063
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+                     /note="hexamer: AATAAA"
+     polyA_site      3083
+                     /gene="GATA3"
+                     /gene_synonym="HDR; HDRS"
+ORIGIN      
+        1 gaacactgag ctgcctggcg ccgtcttgat actttcagaa agaatgcatt ccctgtaaaa
+       61 aaaaaaaaaa aatactgaga gagggagaga gagagagaag aagagagaga gacggaggga
+      121 gagcgagaca gagcgagcaa cgcaatctga ccgagcaggt cgtacgccgc cgcctcctcc
+      181 tcctctctgc tcttcgctac ccaggtgacc cgaggaggga ctccgcctcc gagcggctga
+      241 ggaccccggt gcagaggagc ctggctcgca gaattgcaga gtcgtcgccc ctttttacaa
+      301 cctggtcccg ttttattctg ccgtacccag tttttggatt tttgtcttcc ccttcttctc
+      361 tttgctaaac gacccctcca agataatttt taaaaaacct tctcctttgc tcacctttgc
+      421 ttcccagcct tcccatcccc ccaccgaaag caaatcattc aacgaccccc gaccctccga
+      481 cggcaggagc cccccgacct cccaggcgga ccgccctccc tccccgcgcg cgggttccgg
+      541 gcccggcgag agggcgcgag cacagccgag gccatggagg tgacggcgga ccagccgcgc
+      601 tgggtgagcc accaccaccc cgccgtgctc aacgggcagc acccggacac gcaccacccg
+      661 ggcctcagcc actcctacat ggacgcggcg cagtacccgc tgccggagga ggtggatgtg
+      721 ctttttaaca tcgacggtca aggcaaccac gtcccgccct actacggaaa ctcggtcagg
+      781 gccacggtgc agaggtaccc tccgacccac cacgggagcc aggtgtgccg cccgcctctg
+      841 cttcatggat ccctaccctg gctggacggc ggcaaagccc tgggcagcca ccacaccgcc
+      901 tccccctgga atctcagccc cttctccaag acgtccatcc accacggctc cccggggccc
+      961 ctctccgtct accccccggc ctcgtcctcc tccttgtcgg ggggccacgc cagcccgcac
+     1021 ctcttcacct tcccgcccac cccgccgaag gacgtctccc cggacccatc gctgtccacc
+     1081 ccaggctcgg ccggctcggc ccggcaggac gagaaagagt gcctcaagta ccaggtgccc
+     1141 ctgcccgaca gcatgaagct ggagtcgtcc cactcccgtg gcagcatgac cgccctgggt
+     1201 ggagcctcct cgtcgaccca ccaccccatc accacctacc cgccctacgt gcccgagtac
+     1261 agctccggac tcttcccccc cagcagcctg ctgggcggct cccccaccgg cttcggatgc
+     1321 aagtccaggc ccaaggcccg gtccagcaca gaaggcaggg agtgtgtgaa ctgtggggca
+     1381 acctcgaccc cactgtggcg gcgagatggc acgggacact acctgtgcaa cgcctgcggg
+     1441 ctctatcaca aaatgaacgg acagaaccgg cccctcatta agcccaagcg aaggctgtct
+     1501 gcagccagga gagcagggac gtcctgtgcg aactgtcaga ccaccacaac cacactctgg
+     1561 aggaggaatg ccaatgggga ccctgtctgc aatgcctgtg ggctctacta caagcttcac
+     1621 aatattaaca gacccctgac tatgaagaag gaaggcatcc agaccagaaa ccgaaaaatg
+     1681 tctagcaaat ccaaaaagtg caaaaaagtg catgactcac tggaggactt ccccaagaac
+     1741 agctcgttta acccggccgc cctctccaga cacatgtcct ccctgagcca catctcgccc
+     1801 ttcagccact ccagccacat gctgaccacg cccacgccga tgcacccgcc atccagcctg
+     1861 tcctttggac cacaccaccc ctccagcatg gtcaccgcca tgggttagag ccctgctcga
+     1921 tgctcacagg gcccccagcg agagtccctg cagtcccttt cgacttgcat ttttgcagga
+     1981 gcagtatcat gaagcctaaa cgcgatggat atatgttttt gaaggcagaa agcaaaatta
+     2041 tgtttgccac tttgcaaagg agctcactgt ggtgtctgtg ttccaaccac tgaatctgga
+     2101 ccccatctgt gaataagcca ttctgactca tatcccctat ttaacagggt ctctagtgct
+     2161 gtgaaaaaaa aaatgctgaa cattgcatat aacttatatt gtaagaaata ctgtacaatg
+     2221 actttattgc atctgggtag ctgtaaggca tgaaggatgc caagaagttt aaggaatatg
+     2281 ggagaaatag tgtggaaatt aagaagaaac taggtctgat attcaaatgg acaaactgcc
+     2341 agttttgttt cctttcactg gccacagttg tttgatgcat taaaagaaaa taaaaaaaag
+     2401 aaaaaagaga aaagaaaaaa aaagaaaaaa gttgtaggcg aatcatttgt tcaaagctgt
+     2461 tggcctctgc aaaggaaata ccagttctgg gcaatcagtg ttaccgttca ccagttgccg
+     2521 ttgagggttt cagagagcct ttttctaggc ctacatgctt tgtgaacaag tccctgtaat
+     2581 tgttgtttgt atgtataatt caaagcacca aaataagaaa agatgtagat ttatttcatc
+     2641 atattataca gaccgaactg ttgtataaat ttatttactg ctagtcttaa gaactgcttt
+     2701 ctttcgtttg tttgtttcaa tattttcctt ctctctcaat ttttggttga ataaactaga
+     2761 ttacattcag ttggcctaag gtggttgtgc tcggagggtt tcttgtttct tttccatttt
+     2821 gtttttggat gatatttatt aaatagcttc taagagtccg gcggcatctg tcttgtccct
+     2881 attcctgcag cctgtgctga gggtagcagt gtatgagcta ccagcgtgca tgtcagcgac
+     2941 cctggcccga caggccacgt cctgcaatcg gcccggctgc ctcttcgccc tgtcgtgttc
+     3001 tgtgttagtg atcactgcct ttaatacagt ctgttggaat aatattataa gcataataat
+     3061 aaagtgaaaa tattttaaaa cta
+//
+
